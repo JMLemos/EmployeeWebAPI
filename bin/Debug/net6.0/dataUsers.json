@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Garfield Ovenden",
+    "username": "govenden0",
+    "password": "CxNqnC0",
+    "Role": "Manager"
+  },
+  {
+    "id": 2,
+    "name": "Adolpho Cromar",
+    "username": "acromar1",
+    "password": "pIS2UV5Y",
+    "Role": "Developer"
+  },
+  {
+    "id": 3,
+    "name": "João Lemos",
+    "username": "jlemos",
+    "password": "123",
+    "Role": "Manager"
+  }
+]
